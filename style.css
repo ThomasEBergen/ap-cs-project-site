@@ -5,7 +5,7 @@ body{
 }
 
 a {
-   color: rgb(255, 81, 0)
+   color: rgb(215, 0, 255);
 }
 
 a : :hover {
@@ -15,7 +15,7 @@ a : :hover {
 header {
     margin-bottom: 20px;
     padding: 20px;
-    border-bottom: 1px solid rgb(0, 174, 255);
+    border-bottom: 2px solid rgb(63, 255, 0);
 }
 
 header h1 {
@@ -37,7 +37,7 @@ header nav ul li {
 }
 .project{
     margin-bottom: 20px;
-    border-bottom: 1px solid rgb(0, 174, 255);
+    border-bottom: 2px solid rgb(63, 255, 0);
 }
 
 .project img, #aboutme img {
